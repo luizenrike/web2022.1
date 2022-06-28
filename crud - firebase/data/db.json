@@ -1,0 +1,34 @@
+{
+  "professores": [
+    {
+      "name": "Marcos LaBanca Fiuza",
+      "university": "Università Ca' Foscari",
+      "degree": "Magistrado",
+      "id": 0
+    },
+    {
+      "name": "Anthony Davenport",
+      "university": "University of Georgia",
+      "degree": "Doutorado",
+      "id": 1
+    },
+    {
+      "name": "Alihajan Maquirosaqui",
+      "university": "Indian Institute of Technology Delhi",
+      "degree": "Pós-Doutorado",
+      "id": 2
+    },
+    {
+      "name": "Gabriel Iléis",
+      "university": "Universidade Federal do Ceará",
+      "degree": "Doutorado",
+      "id": 3
+    },
+    {
+      "name": "Francisco Aragão ",
+      "university": "Universidade Federal do Ceará",
+      "degree": "Mestrado",
+      "id": 4
+    }
+  ]
+}
